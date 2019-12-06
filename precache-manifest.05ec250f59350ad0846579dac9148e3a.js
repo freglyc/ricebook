@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa2ac3086681f0c45fa46a41ba2f9c69",
+    "revision": "7b60284d6ae85e0247025b3419448acf",
     "url": "/ricebook/index.html"
   },
   {
-    "revision": "85369b028b7e9b757257",
+    "revision": "39175f4b589882fda8a3",
     "url": "/ricebook/static/css/main.c1f03c6e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ricebook/static/js/2.4b9d9b05.chunk.js"
   },
   {
-    "revision": "85369b028b7e9b757257",
-    "url": "/ricebook/static/js/main.ead80374.chunk.js"
+    "revision": "39175f4b589882fda8a3",
+    "url": "/ricebook/static/js/main.85efa8f4.chunk.js"
   },
   {
     "revision": "f748d0fd83e5039d037f",
