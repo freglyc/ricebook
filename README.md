@@ -7,5 +7,14 @@ View a live development version [here](TODO).
 ### Technical Information
 #### Frontend
 Written in React and deployed through github pages.
+
+```$xslt
+cd frontend
+npm run deploy
+```
 #### Backend
 Server written in Express and deployed on Heroku. Utilized Redis for session storage and MongoDB for information storage. 
+```$xslt
+cd backend
+git push heroku master
+```

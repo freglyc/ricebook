@@ -54,7 +54,6 @@ class Profile extends React.Component {
         };
         this.handleClick = this.handleClick.bind(this);
         this.handleImageChange = this.handleImageChange.bind(this);
-        this.link = this.link.bind(this);
     }
 
     async componentDidMount() {

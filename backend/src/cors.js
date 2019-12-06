@@ -1,5 +1,6 @@
 module.exports = (req, res, next) => {
-    const allowedOrigins = [process.env.FRONTEND_URL, 'https://www.facebook.com'];
+    const allowedOrigins = ['https://www.cfregly.com/ricebook', 'https://www.cfregly.com',
+        'https://backend-ricebook.herokuapp.com', 'https://www.facebook.com'];
     const origin = req.headers.origin;
     if(allowedOrigins.indexOf(origin) > -1){
         res.header('Access-Control-Allow-Origin', origin);

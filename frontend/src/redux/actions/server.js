@@ -2,7 +2,7 @@
 import axios from 'axios';
 axios.defaults.withCredentials = true;
 
-const baseURL = 'BACKEND URL';
+const baseURL = 'https://backend-ricebook.herokuapp.com';
 
 // SERVER GET ACTIONS
 export const getDisplay = (username = '') => axios.get(baseURL + '/display/' + username).then(data => data['data'], error => error.response['data']);

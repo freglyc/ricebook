@@ -57,7 +57,6 @@ export class Login extends React.Component {
                                 login
                             </button>
                         </form>
-                        <a href='FRONTEND URL/auth/facebook'>Facebook</a>
                     </div>
                 </div>
             </nav>
