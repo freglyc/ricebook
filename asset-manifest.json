@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e83f6798.chunk.css",
-    "main.js": "/static/js/main.a9186d1b.chunk.js",
-    "main.js.map": "/static/js/main.a9186d1b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.97fcc041.js",
-    "runtime-main.js.map": "/static/js/runtime-main.97fcc041.js.map",
-    "static/js/2.4b9d9b05.chunk.js": "/static/js/2.4b9d9b05.chunk.js",
-    "static/js/2.4b9d9b05.chunk.js.map": "/static/js/2.4b9d9b05.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dfe57128457de200d6ee350b59cc5ba8.js": "/precache-manifest.dfe57128457de200d6ee350b59cc5ba8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e83f6798.chunk.css.map": "/static/css/main.e83f6798.chunk.css.map",
-    "static/media/add-image.svg": "/static/media/add-image.a1ebff36.svg",
-    "static/media/landing.svg": "/static/media/landing.e5f2f68b.svg",
-    "static/media/new-post.svg": "/static/media/new-post.96244dfc.svg",
-    "static/media/style.css": "/static/media/search.40d44dcc.svg"
+    "main.css": "/ricebook/static/css/main.c1f03c6e.chunk.css",
+    "main.js": "/ricebook/static/js/main.9f41203f.chunk.js",
+    "main.js.map": "/ricebook/static/js/main.9f41203f.chunk.js.map",
+    "runtime-main.js": "/ricebook/static/js/runtime-main.ad06728f.js",
+    "runtime-main.js.map": "/ricebook/static/js/runtime-main.ad06728f.js.map",
+    "static/js/2.4b9d9b05.chunk.js": "/ricebook/static/js/2.4b9d9b05.chunk.js",
+    "static/js/2.4b9d9b05.chunk.js.map": "/ricebook/static/js/2.4b9d9b05.chunk.js.map",
+    "index.html": "/ricebook/index.html",
+    "precache-manifest.28cfaa9aff6251528a12d1509b173ad4.js": "/ricebook/precache-manifest.28cfaa9aff6251528a12d1509b173ad4.js",
+    "service-worker.js": "/ricebook/service-worker.js",
+    "static/css/main.c1f03c6e.chunk.css.map": "/ricebook/static/css/main.c1f03c6e.chunk.css.map",
+    "static/media/add-image.svg": "/ricebook/static/media/add-image.a1ebff36.svg",
+    "static/media/landing.svg": "/ricebook/static/media/landing.e5f2f68b.svg",
+    "static/media/new-post.svg": "/ricebook/static/media/new-post.96244dfc.svg",
+    "static/media/style.css": "/ricebook/static/media/search.40d44dcc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.97fcc041.js",
+    "static/js/runtime-main.ad06728f.js",
     "static/js/2.4b9d9b05.chunk.js",
-    "static/css/main.e83f6798.chunk.css",
-    "static/js/main.a9186d1b.chunk.js"
+    "static/css/main.c1f03c6e.chunk.css",
+    "static/js/main.9f41203f.chunk.js"
   ]
 }
