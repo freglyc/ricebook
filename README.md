@@ -1,6 +1,6 @@
 # ricebook
 
-A simple social media web application. A user can add a picture and status, follow others, and post and comment. 
+A simple social media web application. Users may create posts, follow others, and update personal information. 
 
 View a live development version [here](TODO).
 
