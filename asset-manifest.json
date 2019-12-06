@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ricebook/static/css/main.c1f03c6e.chunk.css",
+    "main.js": "/ricebook/static/js/main.3920d00d.chunk.js",
+    "main.js.map": "/ricebook/static/js/main.3920d00d.chunk.js.map",
+    "runtime-main.js": "/ricebook/static/js/runtime-main.ad06728f.js",
+    "runtime-main.js.map": "/ricebook/static/js/runtime-main.ad06728f.js.map",
+    "static/js/2.6e0103d8.chunk.js": "/ricebook/static/js/2.6e0103d8.chunk.js",
+    "static/js/2.6e0103d8.chunk.js.map": "/ricebook/static/js/2.6e0103d8.chunk.js.map",
+    "index.html": "/ricebook/index.html",
+    "precache-manifest.9eb683d786580569c82867f8b770f06a.js": "/ricebook/precache-manifest.9eb683d786580569c82867f8b770f06a.js",
+    "service-worker.js": "/ricebook/service-worker.js",
+    "static/css/main.c1f03c6e.chunk.css.map": "/ricebook/static/css/main.c1f03c6e.chunk.css.map",
+    "static/media/add-image.svg": "/ricebook/static/media/add-image.a1ebff36.svg",
+    "static/media/landing.svg": "/ricebook/static/media/landing.e5f2f68b.svg",
+    "static/media/new-post.svg": "/ricebook/static/media/new-post.96244dfc.svg",
+    "static/media/style.css": "/ricebook/static/media/search.40d44dcc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad06728f.js",
+    "static/js/2.6e0103d8.chunk.js",
+    "static/css/main.c1f03c6e.chunk.css",
+    "static/js/main.3920d00d.chunk.js"
+  ]
+}
