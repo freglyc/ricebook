@@ -1,0 +1,12 @@
+export const RESET = "RESET";
+export const SET_USERNAME = "SET_USERNAME";
+export const SET_DISPLAY = "SET_DISPLAY";
+export const SET_STATUS = "SET_STATUS";
+export const SET_FOLLOWING = "SET_FOLLOWING";
+export const SET_BIRTH = "SET_BIRTH";
+export const SET_EMAIL = "SET_EMAIL";
+export const SET_PHONE = "SET_PHONE";
+export const SET_ZIP = "SET_ZIP";
+export const SET_AVATAR = "SET_AVATAR";
+export const SET_ARTICLES = "SET_ARTICLES";
+export const ADD_ARTICLES = "ADD_ARTICLES";

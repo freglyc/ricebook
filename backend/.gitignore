@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+package-lock.json
+.env
+node_modules
+npm-debug.log
+node_modules
+npm-debug.log
