@@ -2,7 +2,7 @@
 
 A simple social media web application. Users may create posts, follow others, and update personal information. 
 
-View a live development version [here](TODO).
+View a live development version [here](https://www.cfregly.com/ricebook).
 
 ### Technical Information
 #### Frontend
